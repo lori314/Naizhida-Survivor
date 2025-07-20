@@ -49,9 +49,9 @@
 
 1.  克隆本仓库到本地。
 2.  进入项目目录并安装依赖: `pip install pygame`。
-3.  直接运行主游戏文件 (假设已命名为 `main_game.py`)。
+3.  直接运行主游戏文件。
     ```bash
-    python main_game.py
+    python game.py
     ```
 
 ---
